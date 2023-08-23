@@ -1,0 +1,23 @@
+#heading1{
+    font-size: 60px !important;
+    text-align: center !important;
+    font-variant: small-caps;
+    word-spacing: 10px;
+}
+
+#p1{
+    font-size: 20px;
+}
+
+#treeImg1{
+    padding: 4px;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+
+#heading2{
+    font-size: 35px;
+    text-transform: capitalize;
+}
+
